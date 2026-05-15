@@ -231,6 +231,7 @@ def main():
     display_summary(student_id, full_name, keyword, number, bracket_expr)
 
 
-# Then, finally run the program #
+# Then, we finally run the program #
+# We can also check for any errors if we missed some #
 if __name__ == "__main__":
     main()
